@@ -18,6 +18,7 @@ just clone the repo:
 
 ```bash
 git clone https://github.com/sandrosxila/event-loop-mnemonic/
+cd event-loop-mnemonic
 ```
 
 and run the code:
