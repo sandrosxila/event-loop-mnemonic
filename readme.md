@@ -4,9 +4,27 @@ You don't need to read thousands of articles about the event loop. If you ever f
 
 ## Illustration of the process
 
-![Alt Text](https://assets-global.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb523df242285_event_loop_animation-gif.gif)
+![event_loop_animation](https://github.com/sandrosxila/event-loop-mnemonic/assets/13416127/6e9547da-09c3-456b-801b-d51a67979204)
 
 [Source](https://medium.com/@saravanaeswari22/microtasks-and-macro-tasks-in-event-loop-7b408b2949e0)
+
+![Screenshot from 2024-02-02 15-19-05](https://github.com/sandrosxila/event-loop-mnemonic/assets/13416127/f3e59db6-6e0f-49e1-864b-ea8f04872366)
+
+[Source](https://blog.insiderattack.net/promises-next-ticks-and-immediates-nodejs-event-loop-part-3-9226cbe7a6aa)
+
+## How to run the example?
+
+just clone the repo:
+
+```bash
+git clone https://github.com/sandrosxila/event-loop-mnemonic/
+```
+
+and run the code:
+
+```bash
+npm start
+```
 
 ## output
 
