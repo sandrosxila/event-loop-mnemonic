@@ -1,0 +1,22 @@
+{
+  "name": "event-loop-mnemonic",
+  "version": "1.0.0",
+  "description": "Remeber how event loop works",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandrosxila/event-loop-mnemonic.git"
+  },
+  "keywords": [
+    "mnemonic"
+  ],
+  "author": "Sandro Skhirtladze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandrosxila/event-loop-mnemonic/issues"
+  },
+  "homepage": "https://github.com/sandrosxila/event-loop-mnemonic#readme"
+}
